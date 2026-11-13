@@ -63,6 +63,10 @@ try:
     from server import PromptServer
     from .studio5090_routes import register_routes
     register_routes(PromptServer.instance.routes)
+    # v1.7.57: starter project check (log warning + browser popup).
+    from .studio5090_starter_check import register_routes as _starter_routes, log_startup as _starter_log
+    _starter_routes(PromptServer.instance.routes)
+    _starter_log()
     print("[Studio5090] API routes registered OK")
 except Exception as e:
     print(f"[Studio5090] Route registration failed: {e}")
