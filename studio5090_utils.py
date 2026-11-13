@@ -4,8 +4,15 @@
 # Provided "AS IS", without warranty of any kind.
 
 """
-Studio_5090 Utility Nodes — v1.7.57
+Studio_5090 Utility Nodes — v1.7.58
 Designed by Alan Rosenfeld + Claude (Anthropic), 2026.
+
+v1.7.58 release (over v1.7.57):
+  - The starter project download is STUDIO5090.zip (log, popup, README).
+  - Starter check spots a project one folder too deep
+    (output/STUDIO5090/STUDIO5090/STUDIO5090, from Windows Extract All) and
+    says to move it up one level.
+  - README: Extract All path tip, rename -main, where the templates are.
 
 v1.7.57 release (over v1.7.56):
   - Starter project check.  When ComfyUI/output/STUDIO5090/STUDIO5090/ is
@@ -2598,9 +2605,9 @@ NODE_DISPLAY_NAME_MAPPINGS = {
     "Studio5090LatentResolution":      "Studio5090 Latent Resolution",
     "Studio5090StillVideoSwitch":      "Studio5090 Still/Video Switch",
     "Studio5090Steps":                 "Studio5090 Steps",
-    "Studio5090RenderProjectManager":  "Studio5090 Render Project Manager v1.7.57",
-    "Studio5090CreateProjectManager":  "Studio5090 Create Project Manager v1.7.57",
-    "Studio5090CastingProjectManager": "Studio5090 Casting Project Manager v1.7.57",
-    "Studio5090SaveResult":            "Studio5090 Save Result v1.7.57",
-    "Studio5090HDRRenderQueue":        "Studio5090 HDR Render Queue v1.7.57",
+    "Studio5090RenderProjectManager":  "Studio5090 Render Project Manager v1.7.58",
+    "Studio5090CreateProjectManager":  "Studio5090 Create Project Manager v1.7.58",
+    "Studio5090CastingProjectManager": "Studio5090 Casting Project Manager v1.7.58",
+    "Studio5090SaveResult":            "Studio5090 Save Result v1.7.58",
+    "Studio5090HDRRenderQueue":        "Studio5090 HDR Render Queue v1.7.58",
 }

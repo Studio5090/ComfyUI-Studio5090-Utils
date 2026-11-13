@@ -16,7 +16,7 @@ Go to the **[Releases page](https://github.com/Studio5090/ComfyUI-Studio5090-Uti
 
 | File | What it is |
 |---|---|
-| `STUDIO5090_Starter_Project.zip` | The starter project.  Required. |
+| `STUDIO5090.zip` | The starter project.  Required. |
 | `Studio5090_Documentation.pdf` | How every part of Studio5090 works. |
 | `Studio5090_Bible.pdf` | Recipes, render style samples and tricks. |
 
@@ -24,15 +24,19 @@ Go to the **[Releases page](https://github.com/Studio5090/ComfyUI-Studio5090-Uti
 
 ## Installation
 
-### 1. Unzip the starter project
+### 1. Extract the starter project
 
-Unzip `STUDIO5090_Starter_Project.zip` into your ComfyUI **output** folder.
+Extract `STUDIO5090.zip` into your ComfyUI **output** folder.
+
+**On Windows:** right-click `STUDIO5090.zip` and choose **Extract All**.  Windows adds `\STUDIO5090` to the end of the destination path.  **Delete that part**, so the path ends in `\ComfyUI\output`, then click **Extract**.
 
 When you are done, this folder must exist:
 
 ```
 ComfyUI/output/STUDIO5090/STUDIO5090/
 ```
+
+If the folder ends up one level too deep (`STUDIO5090/STUDIO5090/STUDIO5090`), Studio5090 tells you when ComfyUI starts.  Move everything inside the inner `STUDIO5090` folder up one level, then delete the empty inner folder.
 
 ### 2. Install the Studio5090 nodes
 
@@ -42,7 +46,9 @@ ComfyUI/output/STUDIO5090/STUDIO5090/
 git clone https://github.com/Studio5090/ComfyUI-Studio5090-Utils
 ```
 
-**Without git:** on this page, click the green **Code** button, then **Download ZIP**.  Unzip it into `ComfyUI/custom_nodes/`.
+**Without git:** on this page, click the green **Code** button, then **Download ZIP**.  Unzip it, **rename the folder from `ComfyUI-Studio5090-Utils-main` to `ComfyUI-Studio5090-Utils`**, and move it into `ComfyUI/custom_nodes/`.
+
+Keep only one copy of Studio5090 in `custom_nodes`.  If you had an earlier copy, remove it first.
 
 ### 3. Restart ComfyUI
 
@@ -55,6 +61,8 @@ Restart ComfyUI completely, not just the browser page.
 ### STEP 1: Open the Casting template
 
 Open the **Casting** template first.  It contains every model Studio5090 uses, so it is the best way to get everything installed at once.
+
+The templates are in `ComfyUI/custom_nodes/ComfyUI-Studio5090-Utils/templates/product_workflows/`.  Drag `CASTING_TEMPLATE.json` onto ComfyUI to open it.
 
 - Use **ComfyUI Manager > Install Missing Custom Nodes** to install the other node packs the workflow needs, then restart ComfyUI.
 - Download any missing models.  ComfyUI lists them when the workflow opens.  `MODELS.md` in this repository lists every model and the folder it goes in.

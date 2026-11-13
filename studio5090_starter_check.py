@@ -2,7 +2,7 @@
 # Copyright (c) 2026 Alan Rosenfeld
 # Studio5090 — see LICENSE at the repository root for full terms.
 # Provided "AS IS", without warranty of any kind.
-"""Studio5090 starter project check (v1.7.57).
+"""Studio5090 starter project check (v1.7.57, v1.7.58).
 
 Studio5090 needs its starter project at ComfyUI/output/STUDIO5090/STUDIO5090/.
 At startup this writes a clear warning to the ComfyUI log when it is missing,
@@ -27,15 +27,48 @@ def starter_present():
         return True   # never block anything on a check that failed
 
 
+def _has_files(path, skip=None):
+    """True when path holds any file (empty folders do not count).  Studio5090
+    makes empty project folders at startup, so only real files show where the
+    project actually is."""
+    for root, dirs, files in os.walk(path):
+        if skip and os.path.abspath(root) == os.path.abspath(path):
+            dirs[:] = [d for d in dirs if d != skip]
+        if files:
+            return True
+    return False
+
+
+def status():
+    """{"present", "nested", "path", "nested_path", "url"}.
+    present: the project is where it belongs.  nested: it is one folder too deep."""
+    path = starter_path()
+    deep = os.path.join(path, "STUDIO5090")
+    nested = (os.path.isdir(deep) and _has_files(deep)
+              and not _has_files(path, skip="STUDIO5090"))
+    present = os.path.isdir(path) and not nested
+    return {"present": present, "nested": nested, "path": path,
+            "nested_path": deep if nested else "", "url": DOWNLOAD_URL}
+
+
 def log_startup():
-    if starter_present():
+    st = status()
+    if st["present"]:
         return
     bar = "=" * 72
+    if st["nested"]:
+        logging.warning(
+            f"\n{bar}\n[Studio5090] The starter project is one folder too deep.\n"
+            f"  Found:    {st['nested_path']}\n"
+            f"  Expected: {st['path']}\n"
+            f"  Move everything inside the inner STUDIO5090 folder up one level into the\n"
+            f"  expected folder, delete the empty inner folder, then restart ComfyUI.\n{bar}")
+        return
     logging.warning(
         f"\n{bar}\n[Studio5090] The starter project is missing.\n"
-        f"  Expected folder: {starter_path()}\n"
-        f"  Download STUDIO5090_Starter_Project.zip from:\n  {DOWNLOAD_URL}\n"
-        f"  Unzip it into your ComfyUI output folder, then restart ComfyUI.\n{bar}")
+        f"  Expected folder: {st['path']}\n"
+        f"  Download STUDIO5090.zip from:\n  {DOWNLOAD_URL}\n"
+        f"  Extract it into your ComfyUI output folder, then restart ComfyUI.\n{bar}")
 
 
 def register_routes(routes):
@@ -43,6 +76,4 @@ def register_routes(routes):
 
     @routes.get("/studio5090/starter_status")
     async def starter_status(request):
-        return web.json_response({"present": starter_present(),
-                                  "path": starter_path(),
-                                  "url": DOWNLOAD_URL})
+        return web.json_response(status())
