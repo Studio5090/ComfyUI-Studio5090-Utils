@@ -1,0 +1,100 @@
+=== 0_NO RENDER STYLE ADDED ===
+
+
+=== 🔴🟢🔵 STOP MOTION ===
+Laika stop-motion animation style, painted polymer clay, molded silicone, Visible tiny threads.
+
+=== 🔴🟢🔵 CINEMATIC HANDCRAFTED STOP-MOTION (Modern Puppet Feature) ===
+A cinematic image in the style of a meticulously crafted contemporary stop-motion animated feature, combining expressive handcrafted puppet characters, subtly stylized proportions, sculpted facial features, carefully shaped hair, and individually designed costumes. Environments feel physically constructed, with intricately modeled sets, thoughtfully arranged props, layered foreground and background elements, and convincing relationships of scale. Natural variations in shape, precise contours, and carefully crafted details give characters and surroundings the tangible presence of a practical miniature world. Cinematic lighting adapts naturally to the scene, with soft directional illumination, believable light bounce, luminous highlights, rich but controlled shadows, and atmospheric depth. Natural color reproduction, nuanced color relationships, expressive faces, carefully composed staging, and selective optical focus create a visually rich image that balances the charm of traditional puppet animation with the cinematic sophistication of a modern animated feature. Handcrafted character design and practical set construction remain visually consistent throughout the image, with a cohesive visual style, natural material response, and polished cinematic composition.
+
+=== 🔴🟢🔵 3D FEATURE ANIMATION ===
+Renderman 3D CGI toon animation style, polished cinematic lighting, rich vibrant color palette, smooth surfaces, expressive characters with clean geometry, storybook feel, soft volumetric lighting.
+
+=== ◓ 3D FEATURE ANIMATION Film Noir ===
+Renderman 3D CGI toon animation style, polished cinematic lighting, film noir color palette, smooth surfaces, expressive characters with clean geometry, storybook feel, high-contrast black-and-white panchromatic rendering, hard directional key light, restrained fill light, deep natural shadows, luminous silver-gray highlights, rich blacks, carefully graduated midtones, strong facial modeling through light and shade, subtle tonal falloff, consistent light direction, and authentic monochrome cinematic contrast. Zero chroma.
+
+
+=== 🔴🟢🔵 2D HAND DRAWN FEATURE ANIMATION ===
+Feature animation 2D cel animation style, hand-drawn traditional animation aesthetic like Little Mermaid or Aladdin or Pinocchio, NOT Pixar, without 3D CGI, and without computer generated looks, with painted backgrounds.
+
+
+=== ◓ 2D HAND DRAWN FEATURE ANIMATION Film Noir ===
+Feature animation 2D cel animation style, hand-drawn traditional animation aesthetic like Little Mermaid or Aladdin or Pinocchio, NOT Pixar, without 3D CGI, and without computer generated looks, with painted backgrounds. Film noir color palette, smooth surfaces, expressive characters with clean geometry, storybook feel, high-contrast black-and-white panchromatic rendering, hard directional key light, restrained fill light, deep natural shadows, luminous silver-gray highlights, rich blacks, carefully graduated midtones, strong facial modeling through light and shade, subtle tonal falloff, consistent light direction, and authentic monochrome cinematic contrast. Zero chroma.
+
+
+=== 🔴🟢🔵 PAINTERLY GRAPHIC FEATURE ANIMATION ===
+A sophisticated contemporary animated-feature aesthetic, combining sculptural 3D character geometry with the visual richness of hand-finished illustration. Expressively designed characters with distinctive silhouettes, subtly exaggerated anatomy, angular yet organic facial features, and carefully sculpted forms. Dimensional faces with nuanced planes, natural tonal transitions, expressive eyes, and clearly defined facial features. Painterly surface rendering with controlled brush-like tonal variation, subtly textured materials, crisp graphic edges, and selective illustrative contour accents. Rich, tightly art-directed color palettes, bold color blocking, deep jewel tones, and luminous, directional cinematic lighting. Warm and cool light interact naturally across characters, clothing, props, and environments, creating integrated highlights, sculpted shadows, and convincing reflected color. Detailed environments built from strong graphic shapes, layered architectural forms, atmospheric perspective, and deliberate compositional depth. A refined balance of hard-edged design and soft painterly transitions, expressive stylization and convincing three-dimensional volume, graphic clarity and cinematic atmosphere. Rich contrast, rich shadow detail, carefully controlled highlights, and a cohesive hand-crafted visual finish throughout the entire image. Sophisticated, illustrative 3D animation that feels art-directed frame by frame rather than generically computer-rendered.
+
+
+=== 🔴🟢🔵 ANIME Makoto Shinkai / KyoAni ===
+A breathtaking modern cinematic anime key visual, crisp hand-drawn 2D linework, softly defined full lips with natural gloss highlights, vibrant cell-shading, rich atmospheric anime aesthetic, hyper-detailed hand-painted watercolor and digital landscape background, cinematic anime studio light flares and volumetric sunbeams.
+
+
+=== 🔴🟢🔵 ANIME Sailor Moon / Cowboy Bebop ===
+A nostalgic 1990s retro cel-anime key visual, thick and distinct hand-drawn 2D linework, beautifully shaped and fully defined lips with matte coloring, classic physical cel-shading, vintage atmospheric anime aesthetic, hand-painted gouache background, analog lens bloom effect.
+
+
+=== 🔴🟢🔵 ANIME Studio Trigger / Persona ===
+A bold graphic pop-art anime key visual, sharp high-contrast 2D ink linework, distinct and heavily outlined full lips with stylized flat coloring, vibrant neon cell-shading, dynamic urban anime aesthetic, stylized abstract graphic background, dramatic comic-book inspired studio lighting effects.
+
+
+=== 🔴🟢🔵 Modern S-Verse ===
+A visually explosive contemporary comic-book animation aesthetic, fusing sculptural 3D character geometry with expressive 2D illustration, hand-drawn linework, and the tactile imperfections of printed comic art. Bold, sharply designed silhouettes, graphic exaggeration, expressive angular forms, layered ink contours, and deliberate variations in line weight define the characters and their anatomy. Rich, highly saturated color blocking, unexpected complementary color combinations, vivid primary colors, and boldly separated shadow shapes create a striking graphic image. Shading combines dimensional color modeling with selectively applied Ben-Day dots, variable-scale halftone patterns, crosshatching, hand-drawn strokes. Dot size, density, and pattern change purposefully with tonal value, surface area, and graphic emphasis patterns remain coherent within individual color regions and follow the geometry of the forms. Colored shadows and contrasting edge accents interact with the base colors to intensify depth and visual impact. Strong directional lighting sculpts the underlying 3D forms while graphic highlights, sharp shadow boundaries, and selective ink accents give the image a printed, illustrated character. Subtle color-channel separation, occasional chromatic misregistration, offset ink layers, and irregular hand-printed details create a layered mixed-media finish. Expressive animation-inspired smears, directional graphic streaks, overlapping contour drawings, and selective motion echoes suggest speed, impact, and kinetic energy. Backgrounds combine dimensional perspective with stylized architecture, graphic shapes and deliberately composed color fields. Characters, props, and environments share the same integrated graphic rendering language, with consistent lighting, color interaction, and surface treatment. A sophisticated collision of three-dimensional volume, hand-drawn illustration, graphic-novel design, and experimental comic-book printing. Aggressive visual contrast, razor-sharp focal details, layered color, and fearless artistic exaggeration create the unmistakable energy of modern comic-book animation.
+
+=== ◓ TRADITIONAL HAND-DRAWN STORYBOARD (Monochrome) ===
+A cinematic illustrated style of traditional hand-drawn production storyboards, using expressive graphite pencil and black ink linework, loose exploratory strokes, confident contours, simplified forms, and clearly readable character silhouettes. Pure black, white, and graduated grayscale, with directional pencil hatching and broad monochrome tonal shading to establish light, shadow, depth, and composition, character designs, costumes, and staging. The direct, expressive quality of an artist's hand-drawn working illustration, with clear storytelling and visible drawing lines. No color, photorealism, or 3D CGI. Zero chroma.
+
+=== 🔴🟢🔵 TRADITIONAL HAND-DRAWN STORYBOARD (Color) ===
+A cinematic illustrated style of traditional hand-drawn color production storyboards, using expressive graphite pencil and ink contours, loose exploratory strokes, simplified forms, and clearly readable character silhouettes. Restrained colored-pencil accents and broad watercolor washes establish natural colors, warm and cool relationships, and the separation of light and shadow, while the underlying drawing remains clearly visible. Simplified backgrounds, expressive linework, economical shading, and purposeful color placement create the direct, lively appearance of a hand-drawn working illustration. No photorealism, polished animation cels, or 3D CGI.
+
+=== 🔴🟢🔵 Classic Retro 1960s Pop Art ===
+A bold 1960s-style pop art comic-panel illustration, combining mechanically printed Ben-Day tint patterns with graphic halftone shading. High-contrast, flat, unmodulated primary-color fills. Geometry is clearly defined by thick black ink contours, crisp internal linework, distinct overlapping silhouettes, and sharply separated color planes. Every object has a readable shape and structure, facial features, clothing folds, architectural forms, and surface contours remain clearly delineated. No smooth gradients or photorealistic shading. Form, depth, and skin tones are constructed from discrete, sharply bounded color and shadow regions, with halftone dots confined precisely within those regions. Uniform, evenly spaced Ben-Day dots fill flat tint areas. Halftone dot diameter varies with tonal value, using smaller dots for lighter tones and larger dots for darker shadows. A controlled hierarchy of dot scales maintains fine, legible patterns in detailed areas and bolder, coarser patterns across broad graphic shapes. Dot patterns remain regular and mechanically printed, with consistent spacing within each screen, following the boundaries of the illustrated forms. Thick black outlines remain clean and dominant. Vivid primary colors, subtle off-register color layers, slight ink misregistration, and the tactile character of vintage 1960s comic-book printing.
+
+=== 🔴🟢🔵 Technicolor Melodrama (1950s) ===
+A richly saturated motion-picture image inspired by three-strip Technicolor photography and dye-transfer release prints, with bold luminous primary colors, jewel-like reds and blues, clean color separation, warm highlights, and naturally luminous, smooth, evenly toned skin. Sculpted directional lighting, rich dimensional shadows, and painterly tonal richness create a polished, vivid cinematic image with the distinctive color depth of classic Technicolor.
+
+
+=== 🔴🟢🔵 EXR 50D 5245 (1990s Photochemical Cinema) ===
+A finely resolved motion-picture image inspired by Eastman Kodak EXR 50D 5245, with crisp optical detail, clean color reproduction, luminous whites, naturally warm, smooth skin tones, and rich but faithful color separation. Broad exposure latitude, delicate highlight roll-off, expressive midtones, detailed shadows, and restrained photochemical color timing create a precise, natural image with organic depth and the tonal richness of a carefully timed print.
+
+=== 🔴🟢🔵 VISION3 500T 5219 (Contemporary Cinema) ===
+A finely resolved motion-picture image inspired by Kodak Vision3 500T 5219, with crisp optical detail, natural warm skin tones, and rich but faithfully reproduced colors. Broad exposure latitude, smooth highlight roll-off, dimensional shadows, balanced saturation, and natural color separation create a polished photochemical image with luminous highlights, rich tonal depth, and the versatile photographic character of high-speed tungsten-balanced cinema film.
+
+=== 🔴🟢🔵 VISION2 500T 5218 (2000s Photochemical Feature Cinema) ===
+A finely resolved motion-picture image inspired by Kodak Vision2 500T 5218, with crisp optical definition, natural skin tones, restrained color saturation, and smooth, continuous tonal gradation. Neutral color reproduction, clean whites, expressive midtones, controlled contrast, and detailed shadows create a refined, understated photochemical image with natural color separation and the characteristic tonal response of traditional film.
+
+=== 🔴🟢🔵 VISION3 250D 5207 (Contemporary Daylight Photochemical Cinema) ===
+A finely resolved motion-picture image inspired by Kodak Vision3 250D 5207, with crisp optical detail, natural skin tones, and clean, faithful color reproduction. Luminous whites, beautifully differentiated colors, rich midtones, smooth highlight roll-off, and detailed shadows create a balanced photochemical image with natural warmth, excellent tonal definition, and the clarity of daylight-balanced cinema film.
+
+
+=== 🔴🟢🔵 EASTMAN 50T 5250 65MM (1960s Large-Format Photochemical Cinema) ===
+A finely resolved motion-picture image inspired by Kodak Eastman Color Negative 50T 5250, with crisp optical detail, natural color separation, warm lifelike skin tones, and realistic material response. Broad exposure latitude, smooth highlight roll-off, rich dimensional shadows, balanced contrast, and restrained photochemical color reproduction create a cohesive, naturally detailed cinematic image with the clarity and tonal richness of large-format film.
+
+
+=== 🔴🟢🔵 EASTMAN 25T 5248 (1950s CinemaScope Adventure Cinema) ===
+A finely resolved motion-picture image inspired by Eastman Color Negative 25T 5248, with crisp optical detail, natural warm skin tones, and the distinctive photographic character of traditional color negative film. Natural color reproduction, rich midtones, firm but detailed contrast, luminous highlights, deep dimensional shadows, and smooth tonal transitions create a cohesive photochemical image with faithful color separation, realistic material response, and the grounded, atmospheric character of classic widescreen cinema.
+
+
+=== 🔴🟢🔵 EASTMAN 50T 5251 (1960s Romantic Photochemical Cinema) ===
+A finely resolved motion-picture image inspired by Eastman Color Negative 50T 5251, with refined optical detail, smooth tonal gradation, and naturally warm, lifelike skin tones. Luminous whites, delicately separated cool shadows, warm highlights, rich yet restrained colors, and graceful transitions between light and shadow create an elegant, expressive photochemical image with subtle tonal richness and the natural beauty of traditional film.
+
+=== 🔴🟢🔵 EASTMAN 50T 5251 65MM (1960s Color Golden Age Studio Musical) ===
+A finely resolved motion-picture image inspired by Eastman Color Negative 50T 5251, with exceptional optical clarity, beautifully resolved fine detail, and smooth, natural skin tones, Elegant pastels, deep jewel tones, luminous whites, softly modeled illumination, refined contrast, and graceful highlight roll-off create a polished, richly detailed photochemical image with the exceptional clarity and tonal richness.
+
+=== ◓ Film Noir (1940s–1950s) ===
+Film Noir lighting, high-contrast black-and-white panchromatic rendering, hard directional key light, restrained fill light, deep natural shadows, luminous silver-gray highlights, rich blacks, carefully graduated midtones, strong facial modeling through light and shade, subtle tonal falloff, consistent light direction, and authentic monochrome cinematic contrast. Zero chroma.
+
+
+=== ◓ Golden Age Glamour & Romance (Hollywood Black and White 1930s–1940s style) ===
+A glamorous black-and-white motion-picture image with delicate optical diffusion, luminous highlights, smooth, clear skin, crisp eyes, and elegantly sculpted facial features. Richly graduated panchromatic grays, lustrous highlights, deep detailed blacks, graceful shadow transitions, and refined directional lighting create the polished, romantic tonal richness of classic Hollywood studio cinematography.
+
+=== ◓ EASTMAN DOUBLE-X 5222 (1970s Romantic Monochrome) ===
+A finely resolved black-and-white motion-picture image inspired by Kodak Eastman Double-X 5222, with crisp optical definition and rich, beautifully separated grayscale tones. Luminous highlights, expressive midtones, deep but detailed blacks, natural skin tones, and controlled contrast create a sophisticated photochemical image with dimensionality and the rich tonal character of traditional silver-based monochrome cinema.
+
+
+=== ◓ EASTMAN PLUS-X 5231 (Classic Black-and-White Western) ===
+A finely resolved black-and-white motion-picture image inspired by Eastman Plus-X 5231, with crisp optical definition, deep focus, and exceptionally clear tonal separation. Firm natural contrast, sculptural daylight, expressive skies where visible, detailed shadows, and richly differentiated grays create the precise, expansive photographic character of classic Western cinematography.
+
+
+=== ◓ EASTMAN PLUS-X 5231 / DOUBLE-X 5222 (1970s Naturalistic Monochrome) ===
+A naturalistic black-and-white motion-picture image inspired by Eastman Plus-X 5231 and Double-X 5222, combining crisp daylight detail with the tonal richness of traditional monochrome negative. Restrained contrast, natural skin tones, clearly differentiated midtones, detailed shadows, and realistic material response create an unglamorized, observational photographic image with natural depth and convincing monochrome realism.

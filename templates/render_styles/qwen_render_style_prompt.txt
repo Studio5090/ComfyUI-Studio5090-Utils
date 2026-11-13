@@ -1,0 +1,35 @@
+
+LAYOUT:
+Professional character sheet on a pure white background. Clean, minimalist, no environment, no shadows beyond soft grounding. Maintain all required panels even if the layout becomes dense. Do not reduce or simplify the number of panels.
+
+LEFT SIDE (FULL BODY — CONSISTENT SCALE — EXACTLY 3 VIEWS REQUIRED):
+- full body front view
+- full body side view
+- full body back view
+All three views must be present, clearly separated, and fully visible from head to feet. Same character, same proportions, same clothing, same height and scale. Neutral standing pose, arms relaxed. The back view must be clearly visible and unobstructed.
+
+UPPER RIGHT (HEAD STUDIES — EXACTLY 5 ANGLES REQUIRED):
+Five separate head panels must be present at the same time. Do not omit, merge, or duplicate panels.
+- front view
+- left-side head view
+- three-quarter head view
+- back head view
+- top-down head view
+All head shots match the same character identity and hairstyle. Maintain consistent proportions and lighting.
+
+STYLE:
+Professional character design sheet, similar to high-end game art or fashion reference boards. Clean layout, evenly spaced panels, consistent framing across all elements.
+
+LIGHTING:
+Neutral, even studio lighting. No dramatic shadows. No golden hour tones. Accurate color rendering for materials.
+
+DETAIL:
+Highly consistent facial features across all views. Anatomically correct hands and proportions. Realistic fabric behavior and material response.
+
+FOCUS:
+All panels are sharp and clearly readable. No depth of field blur.
+
+RENDERING:
+Clean edges, no stylization drift, no painterly effects, no background clutter. No text, no labels, no measurement grids, no guide lines, no technical overlays.
+
+<INSERT HERE>
