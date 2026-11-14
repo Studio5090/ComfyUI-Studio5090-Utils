@@ -62,7 +62,10 @@ Restart ComfyUI completely, not just the browser page.
 
 Open the **Casting** template first.  It contains every model Studio5090 uses, so it is the best way to get everything installed at once.
 
-The templates are in `ComfyUI/custom_nodes/ComfyUI-Studio5090-Utils/templates/product_workflows/`.  Drag `CASTING_TEMPLATE.json` onto ComfyUI to open it.
+The templates are in the starter project you extracted:
+ComfyUI/output/STUDIO5090/STUDIO5090/workflows/
+
+Drag `CASTING_TEMPLATE.json` onto ComfyUI to open it.  This folder also holds the example project workflows.  The same templates are in `ComfyUI/custom_nodes/ComfyUI-Studio5090-Utils/templates/product_workflows/`.
 
 - Use **ComfyUI Manager > Install Missing Custom Nodes** to install the other node packs the workflow needs, then restart ComfyUI.
 - Download any missing models.  ComfyUI lists them when the workflow opens.  `MODELS.md` in this repository lists every model and the folder it goes in.
