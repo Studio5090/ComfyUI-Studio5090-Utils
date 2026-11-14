@@ -8,6 +8,21 @@ Designed by Alan Rosenfeld.
 
 ---
 
+## What you need
+
+**Studio5090 runs inside ComfyUI.**  If you don't have ComfyUI yet, install it first:
+
+- **Download ComfyUI** from the official site: [comfy.org/download](https://www.comfy.org/download).  **ComfyUI Desktop** is the easiest way to start on Windows and macOS.
+- Installation guides for every version (Desktop, Portable and manual) are at [docs.comfy.org](https://docs.comfy.org/).
+- **ComfyUI Manager** is used to install the other node packs the workflows need.  ComfyUI Desktop includes it.  If your ComfyUI doesn't have it, see the [ComfyUI Manager page](https://github.com/Comfy-Org/ComfyUI-Manager).
+- **An NVIDIA graphics card.**  Studio5090 is developed on an RTX 5090 and tested on an RTX 3070.  On smaller cards, choose a smaller Prompt Generator model (see STEP 2 below).
+
+Start ComfyUI once and make sure it runs before installing Studio5090.
+
+**Where your ComfyUI folders are:** the steps below refer to `ComfyUI/output/` and `ComfyUI/custom_nodes/`.  In ComfyUI Desktop, these folders are inside the location you chose when you installed it.
+
+---
+
 ## Before you begin: download the starter project
 
 **Studio5090 needs its starter project to be in place before you open any workflow.**  The workflows, examples and test files all live inside it.
