@@ -1,0 +1,13 @@
+[project]
+name = "comfyui-studio5090-utils"
+description = "Requires the Free STUDIO5090 starter project. Studio5090 offers to install it on first start."
+version = "1.7.59"
+license = { file = "LICENSE" }
+dependencies = []
+
+[project.urls]
+Repository = "https://github.com/Studio5090/ComfyUI-Studio5090-Utils"
+
+[tool.comfy]
+PublisherId = "studio5090"
+DisplayName = "Studio5090"

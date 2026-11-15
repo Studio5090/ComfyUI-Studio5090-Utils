@@ -4,8 +4,17 @@
 # Provided "AS IS", without warranty of any kind.
 
 """
-Studio_5090 Utility Nodes — v1.7.58
+Studio_5090 Utility Nodes — v1.7.59
 Designed by Alan Rosenfeld + Claude (Anthropic), 2026.
+
+v1.7.59 release (over v1.7.58):
+  - Starter popup: "Install starter project for me" downloads STUDIO5090.zip
+    from the latest GitHub release and unpacks it into the output folder,
+    with a progress bar.  Existing files are never overwritten.  When done it
+    says to restart ComfyUI, then open CASTING_TEMPLATE, set the LLM model
+    and press RUN.  Buttons: "Open the Documentation" (the PDF from the
+    latest release, opened in the browser) and "Show me the video demos".
+  - pyproject.toml for the Comfy Registry.
 
 v1.7.58 release (over v1.7.57):
   - The starter project download is STUDIO5090.zip (log, popup, README).
@@ -2605,9 +2614,9 @@ NODE_DISPLAY_NAME_MAPPINGS = {
     "Studio5090LatentResolution":      "Studio5090 Latent Resolution",
     "Studio5090StillVideoSwitch":      "Studio5090 Still/Video Switch",
     "Studio5090Steps":                 "Studio5090 Steps",
-    "Studio5090RenderProjectManager":  "Studio5090 Render Project Manager v1.7.58",
-    "Studio5090CreateProjectManager":  "Studio5090 Create Project Manager v1.7.58",
-    "Studio5090CastingProjectManager": "Studio5090 Casting Project Manager v1.7.58",
-    "Studio5090SaveResult":            "Studio5090 Save Result v1.7.58",
-    "Studio5090HDRRenderQueue":        "Studio5090 HDR Render Queue v1.7.58",
+    "Studio5090RenderProjectManager":  "Studio5090 Render Project Manager v1.7.59",
+    "Studio5090CreateProjectManager":  "Studio5090 Create Project Manager v1.7.59",
+    "Studio5090CastingProjectManager": "Studio5090 Casting Project Manager v1.7.59",
+    "Studio5090SaveResult":            "Studio5090 Save Result v1.7.59",
+    "Studio5090HDRRenderQueue":        "Studio5090 HDR Render Queue v1.7.59",
 }
