@@ -119,6 +119,12 @@ class Studio5090HDRProResSave:
             if wave.dim() == 3:
                 wave = wave[0]
             channels, rate = int(wave.shape[0]), int(audio.get("sample_rate", 48000))
+            # v1.7.60: cut the audio to the length of the video, as the mp4
+            # save does.  A longer audio file used to run on past the last
+            # frame, with the picture holding.
+            keep = int(round(frames * rate / float(fps)))
+            if wave.shape[-1] > keep:
+                wave = wave[..., :keep]
             fd, audio_tmp = tempfile.mkstemp(suffix=".f32", dir=folder_paths.get_temp_directory()
                                              if os.path.isdir(folder_paths.get_temp_directory()) else None)
             with os.fdopen(fd, "wb") as f:

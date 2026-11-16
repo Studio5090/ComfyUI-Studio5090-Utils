@@ -4,8 +4,14 @@
 # Provided "AS IS", without warranty of any kind.
 
 """
-Studio_5090 Utility Nodes — v1.7.59
+Studio_5090 Utility Nodes — v1.7.60
 Designed by Alan Rosenfeld + Claude (Anthropic), 2026.
+
+v1.7.60 release (over v1.7.59):
+  - HDR ProRes Save cuts the audio to the length of the video, like the mp4
+    save.  A 1:39 audio file with a 12 second render no longer gives a 1:39
+    .mov with the picture holding on the last frame.
+  - pyproject.toml: the longer Registry description.
 
 v1.7.59 release (over v1.7.58):
   - Starter popup: "Install starter project for me" downloads STUDIO5090.zip
@@ -2614,9 +2620,9 @@ NODE_DISPLAY_NAME_MAPPINGS = {
     "Studio5090LatentResolution":      "Studio5090 Latent Resolution",
     "Studio5090StillVideoSwitch":      "Studio5090 Still/Video Switch",
     "Studio5090Steps":                 "Studio5090 Steps",
-    "Studio5090RenderProjectManager":  "Studio5090 Render Project Manager v1.7.59",
-    "Studio5090CreateProjectManager":  "Studio5090 Create Project Manager v1.7.59",
-    "Studio5090CastingProjectManager": "Studio5090 Casting Project Manager v1.7.59",
-    "Studio5090SaveResult":            "Studio5090 Save Result v1.7.59",
-    "Studio5090HDRRenderQueue":        "Studio5090 HDR Render Queue v1.7.59",
+    "Studio5090RenderProjectManager":  "Studio5090 Render Project Manager v1.7.60",
+    "Studio5090CreateProjectManager":  "Studio5090 Create Project Manager v1.7.60",
+    "Studio5090CastingProjectManager": "Studio5090 Casting Project Manager v1.7.60",
+    "Studio5090SaveResult":            "Studio5090 Save Result v1.7.60",
+    "Studio5090HDRRenderQueue":        "Studio5090 HDR Render Queue v1.7.60",
 }
